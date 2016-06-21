@@ -1,4 +1,4 @@
-# Outlook Repeat
+# Outlook Reaper
 
 Outlook Reaper is a smallish Python script that will pull out a folder
 of email messages from Outlook as a Unix-style mbox. It has a number
